@@ -1,0 +1,1 @@
+To open the game you must install Python 
